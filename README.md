@@ -250,4 +250,4 @@ This repository serves as the official landing page for O&O SafeErase. The softw
 **Get the most recent version of O&O SafeErase today!**
 
 ---
-**Last updated:** 2026-09-08 17:42:07 UTC
+**Last updated:** 2026-09-08 20:36:10 UTC
