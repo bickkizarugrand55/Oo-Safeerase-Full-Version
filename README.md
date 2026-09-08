@@ -248,3 +248,6 @@ This repository serves as the official landing page for O&O SafeErase. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of O&O SafeErase today!**
+
+---
+**Last updated:** 2026-09-08 17:42:07 UTC
